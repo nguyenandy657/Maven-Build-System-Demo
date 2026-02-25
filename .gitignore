@@ -1,0 +1,6 @@
+target/
+dependency-reduced-pom.xml
+.project-local-repo/
+*.log
+*.class
+*.jar

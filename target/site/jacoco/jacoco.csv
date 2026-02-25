@@ -1,4 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Word Frequency Analyzer,com.example.wordfreq,App,112,0,10,0,26,0,8,0,3,0
-Word Frequency Analyzer,com.example.wordfreq,WordFrequencyAnalyzer,5,77,1,7,2,13,3,10,2,7
-Word Frequency Analyzer,com.example.wordfreq,CsvExporter,0,58,0,2,0,10,0,3,0,2
