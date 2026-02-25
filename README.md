@@ -12,6 +12,7 @@ A simple Java project that demonstrates core Maven (build system) concepts and C
 
 ## Project Structure (Maven Standard Layout)
 
+
 ```
 Java/
 ├── pom.xml                                    # Project Object Model (the build file)
